@@ -1,4 +1,4 @@
-# Monokai theme for Dev-C++
+# Monokai Fresh theme for Dev-C++
 
 Sublime Text theme [Monokai Fresh](http://colorsublime.com/theme/monokai_fresh) ported to Dev-C++.
 
