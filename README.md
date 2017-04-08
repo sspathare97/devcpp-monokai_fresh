@@ -2,7 +2,7 @@
 
 Sublime Text theme [Monokai Fresh](http://colorsublime.com/theme/monokai_fresh) ported to Dev-C++.
 
-Published [on deviantART](http://sspathare97.deviantart.com/art/Monokai-Fresh-Theme-For-Dev-c-673643569).
+Published [on deviantART](http://sspathare97.deviantart.com/art/Monokai-Fresh-Theme-For-Dev-C-673643569).
 
 ![Screenshot](screenshot.png)
 
