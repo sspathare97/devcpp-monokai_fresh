@@ -15,6 +15,6 @@ String=$0066FFFF, clNone, 0, 0, 0
 Symbol=$005E00FF, clNone, 0, 0, 0
 Selected text=4473924, 15658734
 Gutter=7895160, 1973790
-Break points=16777215, 13209
+Breakpoints=16777215, 6160639
 Error line=16777215, 6160639
 Active Breakpoints=16777215, 10040115
